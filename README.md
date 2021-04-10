@@ -1,7 +1,7 @@
 # Task-RAintern
 Task-1 to 3
 
-#Task1
+## Task1
 
 In this competition, you're challenged to use the Speech Commands Dataset to build an algorithm that understands simple spoken commands. By improving the recognition accuracy of open-sourced voice interface tools, we can improve product effectiveness and their accessibility. For more details: https://www.kaggle.com/c/tensorflow-speech-recognition-challenge/overview
 
@@ -13,7 +13,7 @@ Code-base of all the experiments.  Follow general instructions strictly.
 In the README.md mention the rank, score and entry.
 
 
-#Task2
+## Task2
 
 Use this dataset (https://www.dropbox.com/s/pan6mutc5xj5kj0/trainPart1.zip) to train a CNN. Use no other data source or pretrained networks, and explain your design choices during preprocessing, model building and training. Also, cite the sources you used to borrow techniques. A test set will be provided later to judge the performance of your classifier. Please save your model checkpoints.
 
@@ -23,7 +23,7 @@ Next, select only 0-9 training images from the above dataset, and use the pretra
 
 Finally, take the following dataset (https://www.dropbox.com/s/otc12z2w7f7xm8z/mnistTask3.zip), train on this dataset and provide test accuracy on the MNIST test set, using the same test split from part 2. Train using scratch random initialization and using the pretrained network part 1. Do the same analysis as 2 and report what happens this time. Try and do qualitative analysis of what's different in this dataset. Please save your model checkpoints.
 
-#Task 3
+## Task 3
 
 Assignment Details-
 Use a given dataset to build a model to predict the category using description. Write code in python. Using Jupyter notebook is encouraged. 
